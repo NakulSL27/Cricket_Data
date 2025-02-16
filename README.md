@@ -21,10 +21,12 @@ Percentile rankings helped in setting thresholds to filter out top-performing pl
 Players meeting at least 3 out of 4 elite criteria were selected as elite performers.
 Data Source:
 The analysis is based on T20 match data collected from cricsheet.org.
+
 Next Steps:
 Expanding the dataset to include more tournaments.
 Adding visualizations to better represent player performance.
 Creating a prediction model for player performance trends.
+
 Contributors:
 Nakul Singh Lodhi
 Feel free to contribute or suggest improvements!
